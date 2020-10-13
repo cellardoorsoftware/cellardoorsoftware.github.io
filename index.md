@@ -1,10 +1,10 @@
 ## An Idea is Born
 
-My son, Alex, had been asking me for a skateboard for months. We told him that if he saved half the cost of a skateboard, we'd pitch in the other half. Needless to say, I'm writing this with a foot that's broken in 3 places from skateboard.
+My son, Alex, had been asking me for a skateboard for months. We told him that if he saved half the cost of a skateboard, we'd pitch in the other half. 
+
+Needless to say, I'm writing this with a foot that's broken in 3 places from skateboarding.
 
 But somewhere in between, a bond with my son was formed, a passion was reignited, and an app idea became reality.
-
-I'm still working hard nights and weekends to get the beta ready, but here a screenshot of the app in development. 
 
 Say hello to `sesh`!!
 
