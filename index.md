@@ -1,4 +1,4 @@
-###An Idea is Born
+### An Idea is Born
 
 My son, Alex, had been asking me for a skateboard for months. We told him that if he saved half the cost of a skateboard, we'd pitch in the other half. Needless to say, I'm writing this with a foot that's broken in 3 places from skateboard.
 
@@ -8,7 +8,7 @@ I'm still working hard nights and weekends to get the beta ready, but here a scr
 
 Say hello to sesh!!
 
-![sesh recording screen](../../images/ollie_attempt_small.png)
+![sesh icon](../images/216.png)
 
 sesh is my new app that I'm working on to record and track my trick and trick attempts.
 
@@ -22,6 +22,8 @@ For an undetermined number of posts following this one, I plan on wasting electr
 - Cross platform code: choosing between going to bed now, or staying up until four until you did the thing you should have done from the beginning.
 
 I hope you'll join me.
+
+[download link](https://www.apple.com)
 
 ---
 * a developer I really admire once told me: "Don't fight the frameworks"
